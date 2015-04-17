@@ -11,5 +11,6 @@ Find Contact
 Print Contacts
 Group Create
 Group Contacts
+Possibly implement JSON
 And More Functions to be determined
 */
